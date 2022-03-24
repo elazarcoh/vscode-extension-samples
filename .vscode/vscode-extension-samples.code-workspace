@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "PureScript",
+            "path": "C:/elazar/private/vscode_extenstions/test-purs"
+        },
+        {
+            "path": "../helloworld-sample"
+        }
+    ]
+}
